@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Math, Innovation.
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on some open source projects.
-- 📫 Reach me at GMail- anish.kumbhar04@gmail.com 
+- 📫 Reach me at GMail- anish.kumbhar02@gmail.com 
 # My Holopins Of HacktoberFest2022:
 [![@shivyoddha's Holopin board](https://holopin.me/shivyoddha)](https://holopin.io/@shivyoddha)
 
